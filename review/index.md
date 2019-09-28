@@ -27,7 +27,7 @@ documents that are a part of this guide:
     
 当前页概述了 Google 的代码评审过程，详细的指南文档包括以下两个部分：
 
-- **[如何进行代码评审](reviewer)** ：代码评审者的详细指南。
+- **[如何进行代码评审](reviewer/)** ：代码评审者的详细指南。
 - **[代码作者变更指导](developer/)** ：代码作者变更(CLs)操作的详细指南。
 
 ## What Do Code Reviewers Look For? {#look_for}
@@ -105,7 +105,7 @@ developer of the change speaks only when spoken to.
 
 ## 更多内容 {#seealso}
 
-- [如何进行代码评审](reviewer)：代码评审者的详细指南。
+- [如何进行代码评审](reviewer/)：代码评审者的详细指南。
 - [代码作者变更指导](developer/)：代码作者变更(CLs)操作的详细指南。
 
 
